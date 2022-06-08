@@ -1,0 +1,25 @@
+{
+  "name": "theauthor",
+  "version": "1.0.0",
+  "description": "a smiple book show case for a writer ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/uzormercy/theauthor.git"
+  },
+  "keywords": [
+    "bookstore",
+    "book",
+    "author"
+  ],
+  "author": "uzor mercy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzormercy/theauthor/issues"
+  },
+  "homepage": "https://github.com/uzormercy/theauthor#readme"
+}
