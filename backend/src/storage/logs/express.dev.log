@@ -3,3 +3,79 @@
 {"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:15:28"}
 {"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:15:35"}
 {"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:20:33"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:24:40"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:25:31"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:25:55"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:26:12"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:27:35"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:33:12"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:36:18"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:36:58"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:39:07"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:41:52"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:42:54"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:43:20"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:45:22"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:47:22"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:50:39"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:51:09"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:51:15"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:51:34"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:51:39"}
+{"level":"error","message":"book validation failed: item: Path `item` is required., author: Author is required, title: Title is required","service":"API_SERVICE","timestamp":"2022-06-08 23:51:39"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:52:25"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:52:29"}
+{"level":"error","message":"book validation failed: item: Path `item` is required., author: Author is required, title: Title is required","service":"API_SERVICE","timestamp":"2022-06-08 23:52:29"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:53:01"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:53:59"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:54:03"}
+{"level":"error","message":"book validation failed: item: Path `item` is required., author: Author is required, title: Title is required","service":"API_SERVICE","timestamp":"2022-06-08 23:54:03"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:55:02"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:55:04"}
+{"level":"error","message":"book validation failed: item: Path `item` is required., author: Author is required, title: Title is required","service":"API_SERVICE","timestamp":"2022-06-08 23:55:04"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:55:12"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:57:00"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:57:09"}
+{"level":"error","message":"book validation failed: item: Path `item` is required., author: Author is required, title: Title is required","service":"API_SERVICE","timestamp":"2022-06-08 23:57:09"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:57:33"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:57:38"}
+{"level":"error","message":"book validation failed: item: Path `item` is required., author: Author is required, title: Title is required","service":"API_SERVICE","timestamp":"2022-06-08 23:57:38"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:57:58"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:57:58"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:58:16"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:58:20"}
+{"level":"error","message":"model.save is not a function","service":"API_SERVICE","timestamp":"2022-06-08 23:58:20"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:59:36"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-08 23:59:44"}
+{"level":"error","message":"model.save is not a function","service":"API_SERVICE","timestamp":"2022-06-08 23:59:44"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-08 23:59:57"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:00:09"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:00:18"}
+{"level":"error","message":"yup.bool(...).require is not a function","service":"API_SERVICE","timestamp":"2022-06-09 00:00:18"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:00:34"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:00:39"}
+{"level":"error","message":"this.toObject is not a function","service":"API_SERVICE","timestamp":"2022-06-09 00:00:39"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:03:02"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:03:49"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:03:54"}
+{"level":"error","message":"this.toObject is not a function","service":"API_SERVICE","timestamp":"2022-06-09 00:03:54"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:05:15"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:05:20"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:08:56"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:08:58"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:09:15"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:09:15"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:09:19"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:09:29"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:21:33"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:21:47"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:22:05"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:23:04"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:23:09"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:27:24"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:27:32"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:28:07"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:28:10"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:28:49"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:29:20"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:29:58"}
