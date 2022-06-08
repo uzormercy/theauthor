@@ -3,7 +3,7 @@ const mongoose = require("@app/config/database");
 const { Schema } = mongoose;
 
 const BookSchema = new Schema({
-  _id: { type: String, unique: true },
+  _id: { type: String },
   title: { type: String, required: "Title is required" },
   subtitle: { type: String },
   author: { type: String, required: "Author is required" },

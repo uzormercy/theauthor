@@ -11,4 +11,4 @@ if (process.env.NODE_ENV !== "test") {
   mongoose.connection.on("open", () => winston.info("MongoDB connected"));
 }
 
-module.exports = database;
+module.exports = mongoose;

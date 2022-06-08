@@ -1,9 +1,12 @@
+require("module-alias/register");
 require("dotenv").config();
 const express = require("express");
 const routes = require("@app/routes");
+const morgan = require("morgan");
 const app = express();
+require("@app/services/logger");
 
-app.use(express.json());
+app.use(morgan("dev"), express.json());
 app.use(express.urlencoded({ extended: true }));
 
 routes(app);
