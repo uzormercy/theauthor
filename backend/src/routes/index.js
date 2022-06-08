@@ -1,3 +1,5 @@
+const _adminBookRoutes = require("./admin/booksRoutes");
+
 module.exports = (app) => {
-  // app.use();
+  app.use("/api/v1", _adminBookRoutes);
 };
