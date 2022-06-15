@@ -25,9 +25,10 @@ const BookSchema = new Schema(
   }
 );
 
+BookSchema.statics.of = (data) => new Book(data);
+
 BookSchema.statics.validate = (object) => {
   const schema = yup.object().shape({
-    _id: yup.string().required(),
     title: yup.string().required("Title is required"),
     author: yup.string().required("Author is required"),
     category: yup.string().required("Category is required"),

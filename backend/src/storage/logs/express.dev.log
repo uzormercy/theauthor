@@ -79,3 +79,168 @@
 {"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:28:49"}
 {"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:29:20"}
 {"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 00:29:58"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:42:03"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:43:16"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:43:40"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:43:52"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:45:02"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:45:13"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:45:43"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:46:15"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:46:25"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:46:38"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:46:57"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:47:29"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:47:40"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:48:55"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 00:49:16"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:49:57"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:50:09"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:50:42"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:51:24"}
+{"level":"error","message":"Title is required","service":"API_SERVICE","timestamp":"2022-06-09 12:51:24"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:52:22"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:52:49"}
+{"level":"error","message":"Title is required","service":"API_SERVICE","timestamp":"2022-06-09 12:52:49"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:53:07"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:53:14"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:53:25"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:55:34"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:58:24"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:58:37"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:58:58"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 12:59:30"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 12:59:51"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:00:56"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:01:07"}
+{"errors":["Title is required"],"inner":[{"errors":["Title is required"],"inner":[],"message":"Title is required","name":"ValidationError","params":{"path":"title"},"path":"title","type":"required"}],"level":"error","message":"Title is required","name":"ValidationError","service":"API_SERVICE","stack":"ValidationError: Title is required\n    at finishTestRun (/Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:63:20)\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:17:5\n    at finishTestRun (/Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:63:11)\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/createValidation.js:72:104\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2022-06-09 13:01:07","value":{"author":"mercy","category":"programming","description":"Some thing brief","item":"https://someurl.com","price":"1200","slug":"first-book","status":true,"subtitle":"first-book"}}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:02:35"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:02:41"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:02:47"}
+{"errors":["Title is required"],"inner":[{"errors":["Title is required"],"inner":[],"message":"Title is required","name":"ValidationError","params":{"path":"title"},"path":"title","type":"required"}],"level":"error","message":"Title is required","name":"ValidationError","service":"API_SERVICE","stack":"ValidationError: Title is required\n    at finishTestRun (/Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:63:20)\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:17:5\n    at finishTestRun (/Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:63:11)\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/createValidation.js:72:104\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2022-06-09 13:02:47","value":{"author":"mercy","category":"programming","description":"Some thing brief","item":"https://someurl.com","price":"1200","slug":"first-book","status":true,"subtitle":"first-book"}}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:05:56"}
+{"errors":["Title is required","Author is required"],"inner":[{"errors":["Title is required"],"inner":[],"message":"Title is required","name":"ValidationError","params":{"path":"title"},"path":"title","type":"required"},{"errors":["Author is required"],"inner":[],"message":"Author is required","name":"ValidationError","params":{"path":"author"},"path":"author","type":"required"}],"level":"error","message":"2 errors occurred","name":"ValidationError","service":"API_SERVICE","stack":"ValidationError: 2 errors occurred\n    at finishTestRun (/Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:63:20)\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:17:5\n    at finishTestRun (/Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/runTests.js:63:11)\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/yup/lib/util/createValidation.js:72:104\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2022-06-09 13:05:56","value":{"category":"programming","description":"Some thing brief","item":"https://someurl.com","price":"1200","slug":"first-book","status":true,"subtitle":"first-book"}}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:06:10"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:06:11"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:08:24"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:08:33"}
+{"$1":{"$":"fluture/Future@5","args":[null],"kind":"interpreter","type":"Future"},"$2":[{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"}],"context":[],"level":"info","message":"after setting _id","service":"API_SERVICE","timestamp":"2022-06-09 13:08:33"}
+{"$1":{"$":"fluture/Future@5","args":[null],"kind":"interpreter","type":"Future"},"$2":[{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"},{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"}],"context":[],"level":"info","message":"after creating instance","service":"API_SERVICE","timestamp":"2022-06-09 13:08:33"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:08:33"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:09:25"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:09:43"}
+{"level":"info","message":"after setting _id","service":"API_SERVICE","timestamp":"2022-06-09 13:09:43"}
+{"level":"info","message":"after creating instance","service":"API_SERVICE","timestamp":"2022-06-09 13:09:43"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:09:43"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:10:44"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:10:53"}
+{"level":"info","message":"after setting _id","service":"API_SERVICE","timestamp":"2022-06-09 13:10:53"}
+{"level":"info","message":"after creating instance","service":"API_SERVICE","timestamp":"2022-06-09 13:10:53"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:10:53"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:11:36"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:11:47"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:11:51"}
+{"level":"info","message":["after setting _id",null],"service":"API_SERVICE","timestamp":"2022-06-09 13:11:51"}
+{"level":"info","message":["after creating instance",null],"service":"API_SERVICE","timestamp":"2022-06-09 13:11:51"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:11:51"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:12:33"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:12:52"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:12:57"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:12:57"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:12:57"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:12:57"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:13:55"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:14:16"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:14:19"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:14:19"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:14:19"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:14:19"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:14:19"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:15:38"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:15:54"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:15:59"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:16:17"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:16:24"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:16:27"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:16:27"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:16:27"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:16:27"}
+{"level":"info","message":"Implicit validateModelundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:16:27"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:16:27"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:17:32"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:17:50"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:17:54"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:17:54"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:17:54"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:17:54"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:17:54"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:19:01"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:19:22"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:19:25"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:19:25"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:19:25"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:19:25"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:19:25"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:19:52"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:20:14"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:20:18"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:20:18"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:20:18"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:20:18"}
+{"level":"info","message":"Payloadundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:20:18"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:20:18"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:22:26"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:23:25"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:23:28"}
+{"level":"info","message":"book payloadundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:23:28"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:23:28"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:23:28"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:23:28"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:23:28"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:24:45"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:24:51"}
+{"level":"info","message":"book payloadundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:24:51"}
+{"level":"info","message":"after validationundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:24:51"}
+{"level":"info","message":"after setting _idundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:24:51"}
+{"level":"info","message":"after creating instanceundefined","service":"API_SERVICE","timestamp":"2022-06-09 13:24:51"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:24:51"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:25:38"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:25:50"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:25:53"}
+{"author":"mercy","category":"programming","description":"Some thing brief","item":"https://someurl.com","level":"info","message":"book payload","price":"1200","service":"API_SERVICE","slug":"first-book","status":true,"subtitle":"first-book","timestamp":"2022-06-09 13:25:53","title":"First Books"}
+{"context":[],"level":"info","message":"after validation","service":"API_SERVICE","timestamp":"2022-06-09 13:25:53"}
+{"$1":{"$":"fluture/Future@5","args":[null],"kind":"interpreter","type":"Future"},"$2":[{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"}],"context":[],"level":"info","message":"after setting _id","service":"API_SERVICE","timestamp":"2022-06-09 13:25:53"}
+{"$1":{"$":"fluture/Future@5","args":[null],"kind":"interpreter","type":"Future"},"$2":[{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"},{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"}],"context":[],"level":"info","message":"after creating instance","service":"API_SERVICE","timestamp":"2022-06-09 13:25:53"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:25:53"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:27:54"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:28:16"}
+{"author":"mercy","category":"programming","description":"Some thing brief","item":"https://someurl.com","level":"info","message":"book payload","price":"1200","service":"API_SERVICE","slug":"first-book","status":true,"subtitle":"first-book","timestamp":"2022-06-09 13:28:16","title":"First Books"}
+{"context":[],"level":"info","message":"after validation","service":"API_SERVICE","timestamp":"2022-06-09 13:28:16"}
+{"$1":{"$":"fluture/Future@5","args":[null],"kind":"interpreter","type":"Future"},"$2":[{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"}],"context":[],"level":"info","message":"after setting _id","service":"API_SERVICE","timestamp":"2022-06-09 13:28:16"}
+{"$1":{"$":"fluture/Future@5","args":[null],"kind":"interpreter","type":"Future"},"$2":[{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"},{"$":"fluture/Future@5","args":[null],"kind":"transformation","type":"map"}],"context":[],"level":"info","message":"after creating instance","service":"API_SERVICE","timestamp":"2022-06-09 13:28:16"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:28:16"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:29:18"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:29:36"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:30:05"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:30:09"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:30:09"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:32:03"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:32:24"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:32:31"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:32:31"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:33:16"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:33:27"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:33:27"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:35:28"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:35:34"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:35:45"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:35:51"}
+{"level":"error","message":"document must have an _id before saving","service":"API_SERVICE","stack":"MongooseError: document must have an _id before saving\n    at /Users/exceedbravo/Projects /Playground/bookstore/backend/node_modules/mongoose/lib/model.js:291:18\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-06-09 13:35:51"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:37:12"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:37:26"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:38:12"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:38:26"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 13:39:56"}
+{"level":"info","message":"Creating a new book","service":"API_SERVICE","timestamp":"2022-06-09 13:40:02"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-09 14:01:47"}
+{"level":"info","message":"MongoDB connected","service":"API_SERVICE","timestamp":"2022-06-10 02:00:33"}
